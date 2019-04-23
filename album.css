@@ -1,0 +1,27 @@
+    body{
+      padding-left: 80px;
+      padding-right: 100px;
+    }
+     /* Custom Container-fluid */
+    .container-fluid{
+    background-color: #ffffff; 
+    padding: 20px; 
+  }
+    /* Add a small box for invididual content in the container-fluid, row*/
+    .boxText{
+      background-color: #ffffff;  
+      border: 3px solid #002db3; 
+      height: 300px;
+      padding: 20px;
+      font-size: 16px;
+    }
+    h1{
+      font-family: 'Abril Fatface', cursive;
+    }
+    h4{
+      font-weight: bold;
+    }
+    .secondDiv{
+      background-color: rgb(195, 199, 202);
+      width: 100%;
+    }
